@@ -1,0 +1,56 @@
+**/.class
+**/.settings
+**/.classpath
+**/.project
+**/target
+target
+logs
+.settings
+.classpath
+.project
+.DS_Store
+sensitive.conf
+node_modules
+.sass-cache
+
+.idea
+.vscode
+*.iml
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/bin/
+
+js-versioned
+css-versioned
+images-versioned
+artifact-id
+.sonar/
+sonar-project.properties
+ab.properties
+*.orig
+
+#gradle
+.gradle
+/build/
+gradle/*
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+gradle/wrapper/gradle-wrapper.properties

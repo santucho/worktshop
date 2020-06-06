@@ -5,8 +5,9 @@ Worktshop
 
 Un breve workshop sobre cómo ser más felices evitando el side-effects, la mutabilidad y la lluvia de excepciones…
 
-![kotlin](img/kotlin.svg)
-![arrow](img/arrow.png)
+<img src="img/kotlin.svg" style="display:inline" height="160" width="160">
+<img src="img/arrow.png" style="display:inline" height="160" width="160">
+
 ---
 
 Sobre Kotlin:
